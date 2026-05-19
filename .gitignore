@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# AI Models & Audio Temp
+*.pt
+*.onnx
+*.wav
+*.png
+*.jpg
+
+# OS garbage
+.DS_Store
+Thumbs.db
