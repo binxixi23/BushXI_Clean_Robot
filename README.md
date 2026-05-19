@@ -1,5 +1,5 @@
 # BushXI_Clean_Robot 🤖🧹
-![BushXI Clean Robot](./image_6f108f45.png)
+![BushXI Clean Robot](./clean_robot.png)
 
 
 An independent, open-source Humanoid Cleaning Robot project focusing on clean-room mechanics, Vision-Language-Action (VLA) task planning, and dynamic obstacle avoidance.
